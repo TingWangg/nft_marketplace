@@ -1,3 +1,3 @@
-# NFT Markerplace
+# NFT Marketplace
 
 
